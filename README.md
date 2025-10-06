@@ -21,20 +21,19 @@
     ```
 
 3.  **Executar em modo de desenvolvimento:**
-    Este comando utiliza o `tsx` para executar o código TypeScript diretamente, reiniciando automaticamente em caso de alterações.
 
     ```bash
     npm run dev
     ```
 
 4.  **(Opcional) Para compilar:**
-    Primeiro, compile o código TypeScript para JavaScript:
+    Compile o código TypeScript para JavaScript:
 
     ```bash
     npm run build
     ```
 
-    Depois, execute o código compilado que estará na pasta `dist/`:
+    Execute o código compilado (`dist/`):
 
     ```bash
     npm start
