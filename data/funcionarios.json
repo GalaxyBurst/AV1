@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "nome": "Alice Admin",
+    "telefone": "123456",
+    "endereco": "Rua A",
+    "usuario": "admin",
+    "senha": "admin123",
+    "nivelPermissao": "ADMINISTRADOR"
+  },
+  {
+    "id": "2",
+    "nome": "Eugênio Engenheiro",
+    "telefone": "654321",
+    "endereco": "Rua E",
+    "usuario": "eugenio",
+    "senha": "eng123",
+    "nivelPermissao": "ENGENHEIRO"
+  },
+  {
+    "id": "3",
+    "nome": "Otávia Operadora",
+    "telefone": "789012",
+    "endereco": "Rua O",
+    "usuario": "otavia",
+    "senha": "op123",
+    "nivelPermissao": "OPERADOR"
+  }
+]
